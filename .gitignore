@@ -5,6 +5,7 @@
 !.gitignore
 !*.md
 !*.c
+!*.h
 !*.pdf
 !*.pdsprj
 
