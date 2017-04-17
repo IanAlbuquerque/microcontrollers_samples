@@ -1,3 +1,5 @@
+#include "lcd.h"
+
 void LCD_display(char* string)
 {
   Lcd_Cmd(_LCD_CLEAR);
